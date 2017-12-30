@@ -1,0 +1,25 @@
+Images in Bootstrap 
+-------------------
+
+<img src="..." class="img-fluid" alt="Responsive image">    
+
+
+
+Image thumbnails
+-----------------
+
+<img src="..." alt="..." class="img-thumbnail">
+
+
+Aligning Images
+----------------
+
+1. <img src="..." class="rounded float-left" alt="...">
+
+2. <img src="..." class="rounded float-right" alt="...">
+
+3. <img src="..." class="rounded mx-auto d-block" alt="...">
+
+4. <div class="text-center">
+   <img src="..." class="rounded" alt="...">
+   </div>
